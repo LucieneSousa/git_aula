@@ -1,0 +1,7 @@
+git config --local user.name "seu_nome_no_git" 
+
+git config --local user.email "email@gmail.com"
+
+
+git config --global user.name "seu_nome_no_git"  
+git config --global user.email "email@gmail.com"  
